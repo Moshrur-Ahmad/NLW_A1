@@ -1,0 +1,13 @@
+{
+  "name": "b7a1-assignment",
+  "version": "1.0.0",
+  "description": "```md id=\"7pw7q9\"\r # B7A1 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
